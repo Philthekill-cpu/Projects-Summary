@@ -10,8 +10,8 @@ Welcome to my engineering project repository. This dashboard serves as a central
 | Project Name | Type | Focus Areas | Key Deliverables |
 | :--- | :--- | :--- | :--- |
 | **Low Carbon Water Supply System** | Group | Fluid Dynamics, Sustainability, FEA | [📁 View Folder](./low-carbon-water-supply-system) |
-| **Vertical Axis Wind Turbine (VAWT)** | Group | Aerodynamics, CAD, Prototyping,CNC Milling | [📂 View Folder](./vawt-prototype) |
-| **Wind Analytics Site Assessment** | Individual | Resource Forecasting, Data Analysis | [📁 View Folder](./wind-analytics) |
+| **Vertical Axis Wind Turbine (VAWT)** | Group | Aerodynamics, CAD, Prototyping,CNC Milling | [📂 View Folder](./vertical-axial-wind-turbine-proto) |
+| **Wind Analytics Site Assessment** | Individual | Resource Forecasting, Data Analysis | [📁 View Folder](./wind-data-analytics-site-assessment) |
 | **Bio-Inspired Engineering Design** | Individual | Bioengineering, Mechanics, Materials | [📂 View Folder](./bio-inspired-design) |
 
 ## 🔍 Project Deep-Dives
