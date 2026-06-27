@@ -29,12 +29,12 @@ Welcome to my engineering project repository. This dashboard serves as a central
 ### 3. Wind Analytics Site Assessment
 * **Objective:** Conducted a comprehensive meteorological and financial feasibility study for a proposed 50MW onshore wind farm.
 * **My Contribution:** Analyzed 10 years of raw wind speed data using MATLAB/Python to calculate Weibull distribution parameters and forecast annual energy production (AEP).
-* **Key Deliverables:** [Site Assessment & Resource Forecasting Study](./wind-analytics/site_assessment.pdf).
+* **Key Deliverables:** [Site Assessment & Resource Forecasting Study](./wind-data-analytics-site-assessment).
 
 ### 4. Bio-Inspired Engineering
 * **Objective:** Developed a mechanical structure utilizing biomimicry principles (inspired by bone microstructure) to optimize the strength-to-weight ratio of a load-bearing beam.
 * **My Contribution:** Handled the material selection matrix and mathematical optimization algorithms for the internal lattice structures.
-* **Key Deliverables:** [Biomimetic Research & Testing Report](./bio-inspired-design/research_paper.pdf).
+* **Key Deliverables:** [Technical Reports](./bio-inspired-design).
 
 ---
 
