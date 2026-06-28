@@ -18,7 +18,7 @@ Welcome to my engineering project repository. This dashboard serves as a central
 | **Solar System Design** | Group | Solar Resource, Solar Market Analysis, Solar Policies, PVSyst | [📂 View Folder](./solar-system-design) |
 | **Wind Analytics Site Assessment** | Individual | Resource Forecasting, Data Analysis | [📁 View Folder](./wind-data-analytics-site-assessment) |
 | **Bio-Inspired Engineering Design** | Individual | Bioengineering, Mechanics, Materials | [📂 View Folder](./bio-inspired-design) |
-| **Numerical Simulation of the Fermi–Pasta–Ulam–Tsingou (FPUT) Lattice and Energy Recurrence** | Individual | Computational Methods, NumPy-based simulation framework, Vibration Analysis | [📂 View Folder](./FPUT-numerical-simulation) |
+| **Numerical Simulation of the Fermi–Pasta–Ulam–Tsingou (FPUT) Lattice and Energy Recurrence** | Individual | Computational Methods, NumPy, Python, MATLAB, Vibration Analysis | [📂 View Folder](./FPUT-numerical-simulation) |
 
 ## 🔍 Project Deep-Dives
 
