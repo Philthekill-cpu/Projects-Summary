@@ -4,6 +4,10 @@ Welcome to my engineering project repository. This dashboard serves as a central
 
 *Academic Integrity Notice:* *Official assignment prompt sheets and criteria have been omitted to prevent plagiarism. The linked subfolders contain only my original calculations, CAD models, simulation data, software coding and final reports.*
 
+## 🛠️ Technical Skillset
+* **CAD and Simulation:** SolidWorks, AutoCad, ANSYS (FEA/CFD) and Ashes
+* **Core Competencies:** Fluid Mechanics, Aerodynamics, Sustainable Energy Systems, Photovoltaic (PV) System, Technical Report Writing and Poster Preperation
+* **Data and Analytics:** Excel, Python (NumPy, Pandas), MATLAB and Wind Resource Assessment
 
 ## 📊 Project Dashboard
 
@@ -41,13 +45,6 @@ Welcome to my engineering project repository. This dashboard serves as a central
 * **Objective:** Designed a self-adaptive, multilayer composite fire protection panel named BioShield, utilizing biomimicry principles inspired by tree bark, skin, and nacre to achieve lightweight thermal insulation, structural reinforcement, and real-time hazard monitoring.
 * **My Contribution:**  Developed the functional stratification layout, analyzing the cellular properties of a cellulose-based aerogel core to minimize thermal conductivity below $0.05\text{ W/mK}$ and evaluating a nacre-inspired brick-and-mortar matrix for structural stability.
 * **Key Deliverables:** [Technical Reports](./bio-inspired-design).
-
----
-
-## 🛠️ Technical Skillset
-* **CAD & Simulation:** SolidWorks, Autodesk Inventor, ANSYS (FEA/CFD), MATLAB
-* **Core Competencies:** Fluid Mechanics, Aerodynamics, Sustainable Energy Systems, Technical Report Writing
-* **Data & Analytics:** Excel/VBA, Python (NumPy, Pandas), Wind Resource Assessment
 
 ---
 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/pingfanteng/) or [Email Me](mailto:ping_fan@live.com)
