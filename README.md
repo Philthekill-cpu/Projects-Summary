@@ -35,11 +35,11 @@ Welcome to my engineering project repository. This dashboard serves as a central
 ### 4. Wind Analytics Site Assessment
 * **Objective:** Assess and recommend the best option for extending the Penmanshiel Wind Farm by increasing its installed capacity by at least 10 MW. This will be achieved by evaluating the wind resource, site suitability, environmental impacts, and expected energy output to develop an efficient and practical wind farm extension.
 * **My Contribution:** Analysed 10 years of raw wind speed data using Excel automation to calculate Weibull distribution parameters, forecasted annual energy production (AEP), tuned the Proportional-Integral-Derivative (PID) controller of the proposed wind turbine and run the simulation model to assess performance on Ashes.
-* **Key Deliverables:** [Phase 1](./wind-data-analytics-site-assessment/phase-1), [Phase 2](./wind-data-analytics-site-assessment/phase-2), [Phase 3](./wind-data-analytics-site-assessment/phase-3) [Simulation Models](./wind-data-analytics-site-assessment/simulation-models).
+* **Key Deliverables:** [Phase 1](./wind-data-analytics-site-assessment/phase-1), [Phase 2](./wind-data-analytics-site-assessment/phase-2), [Phase 3](./wind-data-analytics-site-assessment/phase-3) and [Simulation Models](./wind-data-analytics-site-assessment/simulation-models).
 
 ### 5. Bio-Inspired Engineering
-* **Objective:** Developed a mechanical structure utilizing biomimicry principles (inspired by bone microstructure) to optimize the strength-to-weight ratio of a load-bearing beam.
-* **My Contribution:** Handled the material selection matrix and mathematical optimization algorithms for the internal lattice structures.
+* **Objective:** Designed a self-adaptive, multilayer composite fire protection panel named BioShield, utilizing biomimicry principles inspired by tree bark, skin, and nacre to achieve lightweight thermal insulation, structural reinforcement, and real-time hazard monitoring.
+* **My Contribution:**  Developed the functional stratification layout, analyzing the cellular properties of a cellulose-based aerogel core to minimize thermal conductivity below $0.05\text{ W/mK}$ and evaluating a nacre-inspired brick-and-mortar matrix for structural stability.
 * **Key Deliverables:** [Technical Reports](./bio-inspired-design).
 
 ---
